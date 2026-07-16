@@ -9,6 +9,7 @@ authors:
 version: "1.0.0-submission"
 date-released: "2026-07-16"
 license: MIT
+repository-code: "https://github.com/georgekay/causal-synergy-curve"
 abstract: "Stan models, R scripts, analytic NHANES illustration file, and codebook accompanying the Statistics in Medicine submission on the causal Synergy Curve."
 keywords:
   - causal inference
