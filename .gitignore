@@ -1,0 +1,25 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Stan/CmdStan transient artifacts
+*.exe
+*.hpp
+*.o
+*.d
+*.csv
+*.log
+output.csv
+diagnostic.csv
+
+# Keep the manuscript analytic illustration file
+!data/nhanes_8sdoh_analytic.csv
+
+# Local worker scripts and temporary files
+*.ps1
+*.bat
+*.tmp
+*.bak
+*.zip
+__pycache__/

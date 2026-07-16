@@ -1,0 +1,25 @@
+{
+  "title": "Causal Synergy Curve reproducibility archive",
+  "upload_type": "software",
+  "description": "Stan models, R scripts, analytic NHANES illustration file, and codebook accompanying the Statistics in Medicine submission: The Causal Synergy Curve: Bayesian Estimation of Gap-Closure Architecture Across Modifiable Domains.",
+  "creators": [
+    {
+      "name": "Kypriotakis, George",
+      "orcid": "0000-0002-2011-4545",
+      "affiliation": "The University of Texas MD Anderson Cancer Center"
+    }
+  ],
+  "version": "1.0.0-submission",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "causal inference",
+    "Bayesian g-computation",
+    "intervention architecture",
+    "Shapley decomposition",
+    "social determinants of health",
+    "survival analysis"
+  ],
+  "related_identifiers": [],
+  "notes": "Compiled Stan executables, posterior draw CSV files, intermediate logs, and platform-specific worker scripts are omitted because they are transient artifacts that can be regenerated from the supplied source code."
+}

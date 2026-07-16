@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these reproducibility materials, please cite the archived release."
+title: "Causal Synergy Curve reproducibility archive"
+type: software
+authors:
+  - family-names: Kypriotakis
+    given-names: George
+    orcid: "https://orcid.org/0000-0002-2011-4545"
+version: "1.0.0-submission"
+date-released: "2026-07-16"
+license: MIT
+abstract: "Stan models, R scripts, analytic NHANES illustration file, and codebook accompanying the Statistics in Medicine submission on the causal Synergy Curve."
+keywords:
+  - causal inference
+  - Bayesian g-computation
+  - intervention architecture
+  - Shapley decomposition
+  - social determinants of health
+  - survival analysis
