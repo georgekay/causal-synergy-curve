@@ -76,4 +76,8 @@ The repository excludes compiled Stan executables, CmdStan draw CSV files, inter
 
 ## Citation
 
-If using these materials, please cite the archived release DOI once minted by Zenodo. Citation metadata are provided in `CITATION.cff` and `.zenodo.json`.
+If using these materials, please cite the archived release:
+
+Kypriotakis G. *Causal Synergy Curve reproducibility archive*. Zenodo. 2026. doi:[10.5281/zenodo.21399967](https://doi.org/10.5281/zenodo.21399967).
+
+Citation metadata are provided in `CITATION.cff` and `.zenodo.json`.
